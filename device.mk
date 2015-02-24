@@ -275,6 +275,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.qti.sensors.vmd=false \
     ro.qti.sensors.pedometer=false \
     ro.qti.sensors.pam=false \
+    ro.qti.sensors.pick_up = false \
     ro.qti.sdk.sensors.gestures=false
 
 # Doze mode
