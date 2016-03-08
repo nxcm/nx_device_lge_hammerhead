@@ -1,7 +1,7 @@
 [
  {
    "remote":      "bitbucket",
-   "repository": "nxcm/nx_kernel_lge_hammerhead",
+   "repository": "nexusxm/kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead"
  },
  {
