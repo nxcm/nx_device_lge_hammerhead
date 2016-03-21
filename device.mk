@@ -279,7 +279,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Doze mode
 PRODUCT_PACKAGES += \
-    HammerheadDoze
+    NXDoze
 
 # Enable some debug messages by default
 PRODUCT_PROPERTY_OVERRIDES += \
